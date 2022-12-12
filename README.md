@@ -9,6 +9,7 @@ Projeto "Adivinhe o número secreto" faz parte do curso "JavaScript: validaçõe
 - [x] Aplicar reconhecimento de voz com javascript
 - [x] Manipular dados, eventos e elementos 
 - [x] Fazer o deploy do projeto 
+- [x] Realizar desafio em que o jogo reconheça o palavra "Game Over" e finalize o jogo.
 
 
 | :placard: Vitrine.Dev |     |
@@ -31,5 +32,5 @@ Para acessar o projeto clique <a href="https://jogo-adivinha-numero.vercel.app/"
 O jogo pode ser jogado sozinho ou com outras pessoas e consiste em adivinhar um número entre **1 e 1000**.
 O jogo irá pedir a permissão para utilizar o microfone do seu dispositivo, assim que a permissão for concedida ele utilizará reconhecimento de voz para identificar o número falado,
 ao longo do jogo ele dará dicas para os usuários se o número for maior ou menor, caso for identificado algo que não seja um número ele irá avisar que o valor é inválido, e por fim,
-quando o valor for acertado o jogo irá mostrar uma mensagem de "Você acertou" e aparecerá um botão de jogar novamente.
+quando o valor for acertado o jogo irá mostrar uma mensagem de "Você acertou" e aparecerá um botão de jogar novamente. Caso algum player diga "Game Over" o jogo irá finalizar.
 
